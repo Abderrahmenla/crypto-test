@@ -1,0 +1,44 @@
+[2024-11-21T22:58:51.076Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T22:58:51.136Z] [32minfo[39m: Connected to MongoDB
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-21T23:00:20.296Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-11-21T23:00:20.349Z"}
+[2024-11-21T23:00:37.750Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:00:37.765Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:01:08.561Z] [32minfo[39m: Fetching metadata for 0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d, tokenId: 1
+[2024-11-21T23:01:45.341Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:01:45.363Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:04:51.499Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:04:51.515Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:06:59.131Z] [32minfo[39m: Fetching metadata for 0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d, tokenId: 1
+[2024-11-21T23:07:49.121Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:07:49.144Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:08:11.389Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:08:11.472Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:09:06.624Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:09:06.663Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:11:12.460Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:11:12.480Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:11:29.064Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:11:29.083Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:11:39.033Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:11:39.050Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:12:32.772Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:12:32.788Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:13:04.394Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:13:04.426Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:13:30.846Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:13:30.861Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:13:34.881Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:13:34.910Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:14:36.268Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:14:36.286Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:14:39.927Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:14:39.949Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:14:50.568Z] [32minfo[39m: Fetching metadata for 0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d, tokenId: 1
+[2024-11-21T23:17:02.767Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:17:02.787Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:17:07.770Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:17:07.786Z] [32minfo[39m: Connected to MongoDB
+[2024-11-21T23:17:42.985Z] [32minfo[39m: Server running on port 3000
+[2024-11-21T23:17:43.002Z] [32minfo[39m: Connected to MongoDB
+[2024-11-22T00:07:56.280Z] [32minfo[39m: Fetching metadata for 0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d, tokenId: 1
