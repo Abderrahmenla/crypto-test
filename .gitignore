@@ -27,3 +27,4 @@ dist-ssr
 #serverside
 server/config
 .env
+./node_modules/
